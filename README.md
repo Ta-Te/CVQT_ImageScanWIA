@@ -5,7 +5,7 @@ A Qt+OpenCV project for scanning an image from scanner using WIA
 
 System Requirement:
 
-Qt 5.9.1
-OpenCV 3.2 (built with Contrib)
-Windows 10 (x64)
+1. Qt 5.9.1
+2. OpenCV 3.2 (built with Contrib)
+3. Windows 10 (x64)
 
